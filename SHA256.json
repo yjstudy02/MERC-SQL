@@ -1,0 +1,16 @@
+{
+  ".gitignore": "4946244454e99d594173e60ff10372b2e18bf9bdfe76c6f06a8f678e23550b87",
+  "consensus.py": "792085c7b32c3955b2cb77dc3801736a21717f74c4df912d38f9d2ef3fedbc33",
+  "evaluate.py": "ee2495b60dde4c3acdf876010c312570b66d0bd739d7804323e2fc0902397156",
+  "generate.py": "9093837521ada88ca17694f12b624b7065b0f9b872e9a3507b95018a884a9fc8",
+  "prompts.py": "586c1dfcfcae1bdd39c58b9d2ee9066bab595b00263630b017506fd5e0c04f4a",
+  "README.md": "0590d7ed965f053c2134fbe68fab49b4f340e7fac17a8b2665cb376226c2aa45",
+  "requirements-generation.txt": "538134cb07bf40c03f8a7d33ef807f97e28de9fcb0f48b24aaf92a555c8fe1b2",
+  "candidates/bird_candidates.jsonl": "ae1704bbaa05bd3ea8b8730bc19d3ca3a8ecaaace8345fa67148a42547ab5843",
+  "candidates/README.txt": "7f05662e489b748ff720b1cdb5ca75e687739f7cc4d6b2d8bedff45c943948b5",
+  "candidates/spider_candidates.jsonl": "342a6f2eb50c6a094acca2640f6457360221c693849475fccfafd6039406f4c1",
+  "candidates/bird/generation_cost.csv": "145d25e6434066d1546da89b84295bcc4dd03e83d9260586b7c13f68859938a6",
+  "candidates/bird/summary.csv": "6f9cdc7c275fe06fa8062f2223aff99180fbccd18e897cde9df2efaa737500bd",
+  "candidates/spider/generation_cost.csv": "5b9bc49bda3b50bb4147a0a98fa26e9e3e4dfa2aba08b9b9ad3d2861a737e848",
+  "candidates/spider/summary.csv": "e401284cba739aff16a9e2537d8edeea4a56ff23dff4ca7131bf5fd766a3fa8f"
+}

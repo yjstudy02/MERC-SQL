@@ -1,0 +1,1 @@
+Candidate order: o0,o1,o2,o3,o4,auxiliary. No databases, gold SQL, questions, model weights or local paths are included. Database layout is a portable suggestion; users must map their official database distribution. Dataset and model terms still apply. These predictions do not replace independent regeneration.
